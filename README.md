@@ -5,7 +5,6 @@
 
 <h3 align="center">Software Engineering</h3>
     <br />
-    <br />
 <p align="center">
     Art-gallery developed by team[team name] in International University - VNUHCM!
     <br />
