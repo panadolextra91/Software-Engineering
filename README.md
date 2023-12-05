@@ -13,12 +13,15 @@
   
 # Table of contents :round_pushpin:
   
-Chapter1: [Introduction](#Introduction)
+1: [Introduction](#Introduction)
 
-Chapter2: [Project planning](#Project-planning)
+2: [Project planning](#Project-planning)
 
-Chapter3: [Requirement analysis](#Requirement-analysis)
+3: [Techniques](#Techniques)
 
+4: [Challenges](#Challenges)
+
+5. [Acknowledgments](#Acknowledgments)
 #### Introduction
 The Art Gallery project is an initiative founded in 2023 with the message "Be Yourself, Love Yourself." Its aim is to create a space for exploring and experiencing diverse works of art. The Art Gallery provides a platform for artists and art enthusiasts to showcase and share their creations with the community.
 
@@ -123,4 +126,20 @@ Team Members
   </table>
 .
 
-#### Requirement analysis
+#### Techniques
+- Language: 
+- Framework: 
+- Library:
+
+#### Challenges
+- Learn how to get acquainted with github
+- Learn how to get used to new frameworks
+- Encountered many errors during the coding process
+
+#### Acknowledgments
+- Here are a few websites we consulted to complete our project:
+  - <a href="https://www.youtube.com/watch?v=RGOj5yH7evk">Git,Github tutorial</a>
+  - <a href="https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project">Readme tutorial</a>
+- And especially, it is indispensable for the knowledge that Mrs.Loan taught last semester. Once again, many thanks to you, Mrs.Loan for guiding us
+  
+
