@@ -21,7 +21,8 @@
 
 4: [Challenges](#Challenges)
 
-5. [Acknowledgments](#Acknowledgments)
+5: [Acknowledgments](#Acknowledgments)
+
 #### Introduction
 The Art Gallery project is an initiative founded in 2023 with the message "Be Yourself, Love Yourself." Its aim is to create a space for exploring and experiencing diverse works of art. The Art Gallery provides a platform for artists and art enthusiasts to showcase and share their creations with the community.
 
@@ -124,7 +125,7 @@ Team Members
         </td>
     </tr>
   </table>
-.
+
 
 #### Techniques
 - Language: 
