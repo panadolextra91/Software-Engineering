@@ -9,3 +9,8 @@
     Art-gallery developed by team[team name] in International University - VNUHCM!
     <br />
     <br />
+<!-- TABLE OF CONTENTS -->
+# Table of contents :round_pushpin:
+Chapter1: Introduction 
+Chapter2: PROJECT PLANNING
+Chapter3: PROJECT PLANNING
