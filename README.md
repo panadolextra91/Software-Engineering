@@ -27,6 +27,8 @@ The Art Gallery project goes beyond displaying artworks; it also organizes activ
 The Art Gallery aspires to become a popular and notable art destination, where people can find inspiration and nurture their creativity.
 
 #### Project planning
+Team Members 
+
 
 
 #### Requirement analysis
