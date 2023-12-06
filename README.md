@@ -23,14 +23,14 @@
 
 5: [Acknowledgments](#Acknowledgments)
 
-#### Introduction
+# Introduction
 The Art Gallery project is an initiative founded in 2023 with the message "Be Yourself, Love Yourself." Its aim is to create a space for exploring and experiencing diverse works of art. The Art Gallery provides a platform for artists and art enthusiasts to showcase and share their creations with the community.
 
 The Art Gallery project goes beyond displaying artworks; it also organizes activities and events related to art, such as exhibitions, workshops, and art courses. It is a destination for art lovers who want to learn and discover more about different art forms.
 
 The Art Gallery aspires to become a popular and notable art destination, where people can find inspiration and nurture their creativity.
 
-#### Project planning
+# Project planning
 Team Members 
 
 <table border="1">
@@ -127,17 +127,17 @@ Team Members
   </table>
 
 
-#### Techniques
+# Techniques
 - Language: 
 - Framework: 
 - Library:
 
-#### Challenges
+# Challenges
 - Learn how to get acquainted with github
 - Learn how to get used to new frameworks
 - Encountered many errors during the coding process
 
-#### Acknowledgments
+# Acknowledgments
 - Here are a few websites we consulted to complete our project:
   - <a href="https://www.youtube.com/watch?v=RGOj5yH7evk">Git,Github tutorial</a>
   - <a href="https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project">Readme tutorial</a>
