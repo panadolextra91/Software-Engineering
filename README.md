@@ -1,12 +1,12 @@
 <div id="top" style="display: flex; justify-content: center;">
+  <p align="center">
   <img src="img/art-gallery-icon-13975.png" alt="Banner" width="200" height="200" ">
-  <img src="img/logo.png" alt="Logo" width="200" height="200" ">
 </div>
 
 <h3 align="center">Software Engineering</h3>
     <br />
 <p align="center">
-    Art-gallery developed by team[team name] in International University - VNUHCM!
+    Art-gallery developed by team 5 in International University - VNUHCM!
     <br />
     <br />
 <!-- TABLE OF CONTENTS -->
