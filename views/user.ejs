@@ -1,0 +1,27 @@
+<%- include('header') -%>
+
+<div class="container mt-4">
+    <h2 class="mb-4">User Management</h2>
+    <a href="/add-user" class="btn btn-primary">Add User</a>
+    <hr>
+
+    <div class="row">
+        <% categories.forEach((user, key) => { %>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">User ID: <%= user.id %></h5>
+                        <p class="card-text"><strong>Name:</strong> <%= user.name %></p>
+                        <p class="card-text"><strong>Email:</strong> <%= user.email %></p>
+                        <p class="card-text"><strong>Role:</strong> <%= user.role %></p>
+                        <div class="d-flex justify-content-end">
+                            <a onclick="return confirm('Delete this user?')" href="/delete-user/<%= user.id %>" class="btn btn-sm btn-danger">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <% }) %>
+    </div>
+</div>
+
+<%- include('footer') -%>
