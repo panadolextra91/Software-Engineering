@@ -129,7 +129,7 @@ Team Members
 
 # Techniques
 - IDE: VS Code and XAMPP
-- Language: Frontend: html(HyperText Markup Language ),js(JavaScript),EJS and css(Cascading Style Sheets); Backend:Java
+- Language: Frontend: html(HyperText Markup Language ),js(JavaScript),ejs(Embedded JavaScript templating) and css(Cascading Style Sheets); Backend:Java
 - Framework: In our project, we are using framework Vue.js((https://vuejs.org/) to define for frontend
 - Library: In other to control our database, we have used SQLite(https://www.sqlite.org/index.html) and Xampp(https://www.apachefriends.org/index.html) to define Backend more easier
 
